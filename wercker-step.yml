@@ -1,5 +1,5 @@
 name: validate-nodejs-tests
-version: 0.1.0
+version: 0.1.1
 description: Validate node.js tests if there are no test.only enabled
 keywords:
   - node.js
